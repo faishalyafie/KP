@@ -68,3 +68,9 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+Description
+***************
+
+Berikut adalah program hasil magang yang digunakan untuk menginputkan DP & ODP di Telkom Witel Semarang pada tahun 2019
